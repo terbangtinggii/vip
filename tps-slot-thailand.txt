@@ -16,7 +16,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..770&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,770;1,100;1,300;1,400;1,500;1,700;1,770&display=swap" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="shortcut icon" href="https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico" />
+    <link rel="shortcut icon" href="https://tps.ac.th/img/favicon.png" />
     <link rel="canonical" href="https://tps.ac.th/" />
     <link rel="amphtml" href="https://tps-paus.pages.dev/slot-thailand/" />
     <!-- start preload -->
