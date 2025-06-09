@@ -1101,7 +1101,7 @@
 <div class="lzd-logo-bar">
     <div class="logo-bar-content header-content">
         <div class="lzd-logo-content">
-                <img src="https://images.linkcdn.cloud/V2/1504/logo/logo-157292601.png" style="object-fit: contain; width: 100%; height: 70px;"/>
+                <img src="https://hotnewsind.wordpress.com/wp-content/uploads/2025/06/rekomendasi-situs.gif" style="object-fit: contain; width: 100%; height: 70px;"/>
         </div>
         <div class="lzd-nav-search" data-spm="search">
             <input type="text" class="input-search" placeholder="SLOT THAILAND">
