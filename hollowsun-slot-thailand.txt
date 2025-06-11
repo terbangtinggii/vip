@@ -18,7 +18,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://hollowsun.com/favicon.ico" />
   <link rel="canonical" href="https://hollowsun.com/" />
-  <link rel="amphtml" href="https://tps-paus.pages.dev/slot-thailand/" />
+  <link rel="amphtml" href="https://terbangtinggii.github.io/vip/hollowsun-amp.html" />
   <!-- start preload -->
   <link rel="preload" href="https://hotnewsind.wordpress.com/wp-content/uploads/2025/06/slot-thailand.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
